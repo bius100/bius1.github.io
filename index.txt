@@ -1,0 +1,177 @@
+Ethan Ward - Web Developer from New Kenya
+
+
+
+#---------- HEADER ----------#
+
+bius kipkemoi
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Skills
+Contact
+Blog
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = Ethan's Photo
+
+4
+Years of Success
+
+12+
+Projects Completed
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm developer from Kenya
+
+Hello I'm
+
+Bius kipkemoi
+
+Web Developer from Kenya
+
+ill update
+Get a Quote
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+alt = Bius's Photo
+
+alt = Bius's Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a Developer
+
+I Develop Application that Help People
+
+ill update HEADER
+
+View Portfolio
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+My Amazing Works
+
+ill update HEADER
+
+Youtube
+
+Web Application for Desiverse
+
+View Project 
+<ion-icon name="arrow-forward"></ion-icon>
+
+Vimeo
+
+Soundcloud
+
+Details
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+ill do update
+
+CSS
+75%
+
+React
+75%
+
+html
+90%
+
+Python
+70%
+R
+80%
+
+JavaScript
+75%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+00100, Nairobi, Kenya
+
+<ion-icon name="mail"></ion-icon>
+Email
+Biuskipkemo@gmail.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++254702703012
+
+
+
+#---------- BLOG ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+incoming update
+
+alt = Jim My friend Says when the musics over turn off the light
+
+Web Development
+
+ill update
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2022 codewithlasycoder. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
